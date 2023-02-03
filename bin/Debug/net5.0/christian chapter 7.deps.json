@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "christian chapter 7/1.0.0": {
+        "runtime": {
+          "christian chapter 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "christian chapter 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

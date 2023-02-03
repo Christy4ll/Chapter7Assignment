@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\christian chapter 7.exe
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\christian chapter 7.deps.json
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\christian chapter 7.runtimeconfig.json
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\christian chapter 7.runtimeconfig.dev.json
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\christian chapter 7.dll
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\ref\christian chapter 7.dll
+C:\Users\hp\Desktop\christian chapter 7\bin\Debug\net5.0\christian chapter 7.pdb
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.AssemblyInfo.cs
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.dll
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\ref\christian chapter 7.dll
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.pdb
+C:\Users\hp\Desktop\christian chapter 7\obj\Debug\net5.0\christian chapter 7.genruntimeconfig.cache
